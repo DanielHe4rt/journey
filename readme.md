@@ -18,3 +18,10 @@ If you want to be part of this journey, make sure to star this repo and watch it
 
 ## Courses to Produce
 
+| Course          | Status    | Link                                                | Published At |
+|-----------------|-----------|-----------------------------------------------------|--------------|
+| Laravel4Noobs   | Done      | [Udemy](https://www.udemy.com/course/laravel4noobs) | 04/2021      |
+| PHP4NOobs       | Done      | [Udemy](https://www.udemy.com/course/php4noobs)     | 05/2021      |
+| Backend4Noobs   | Recording | ---                                                 | ---          |
+| OOP4Noobs       | Planning  | ---                                                 | ---          |
+| Laravel4Juniors | Planning  | ---                                                 | ---          |
