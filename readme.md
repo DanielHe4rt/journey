@@ -9,7 +9,7 @@ If you want to be part of this journey, make sure to star this repo and watch it
 
 | Courses                          | Link                                                                      | Finished | Resume |
 |----------------------------------|---------------------------------------------------------------------------|----------|--------|
-| Solid Principles in PHP          | [Laracasts](https://laracasts.com/series/solid-principles-in-php)         | Nope     | Nope   |   
+| Solid Principles in PHP          | [Laracasts](https://laracasts.com/series/solid-principles-in-php)         | 2021-07-12 | [SOLID4Noobs](https://github.com/danielhe4rt/SOLID4Noobs)   |   
 | 10 Techniques for a Cleaner Code | [Laracasts](https://laracasts.com/series/ten-techniques-for-cleaner-code) | Nope     | Nope   |   
 | Design Patterns in PHP           | [Laracasts](https://laracasts.com/series/design-patterns-in-php)          | Nope     | Nope   |   
 | Simple Rules for a Simple Code   | [Laracasts](https://laracasts.com/series/simple-rules-for-simpler-code)   | Nope     | Nope   |   
